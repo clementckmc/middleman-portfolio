@@ -15,3 +15,16 @@
   right: 0;
   bottom: 0;
 }
+
+.btn-purple {
+  background-color: #70488c;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.btn-purple:hover {
+  background-color: #5C2E7E;
+  transition: 0.75s;
+  color: white;
+}
