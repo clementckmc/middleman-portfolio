@@ -1,10 +1,10 @@
 <div class="container mt-5">
-  <div class="profile-card d-flex row justify-content-center lh-lg">
+  <div class="profile-card d-flex row justify-content-center lh-lg align-items-center">
     <div class="col-4 text-center">
-      <%= image_tag 'profile.jpg', alt: "profile photo", class: 'profile-pic' %>
+      <%= image_tag 'profile.jpg', alt: "profile photo", class: 'profile-pic align-middle' %>
     </div>
     <div class="col-4">
-      <h1 style="font-size: 60px" class="emphasis"> Clement Choi</h1>
+      <h1 style="font-size: 60px" class="emphasis mb-3"> Clement Choi</h1>
       <div class="d-flex justify-content-between">
         <p><i class="fa-solid fa-laptop emphasis"></i> Web Developer</p>
         <p><i class="fa-solid fa-location-dot emphasis"></i> Tokyo, Japan</p>
@@ -13,8 +13,8 @@
       <p><i class="fa-solid fa-language emphasis"></i> English, Japanese, Chinese, Cantonese</p>
       <ul class="list-inline">
         <li class="button-social"><i class="fa-solid fa-envelope"></i><%= mail_to "clementchoi1997@gmail.com", "", class: 'button-social-link' %></li>
-        <li class="button-social"><a href="https://www.linkedin.com/in/clement-choi/" target="_blank"><i class="fa-brands fa-github"></i></a></li>
-        <li class="button-social"><a href="https://github.com/clementckmc" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+        <li><a href="https://github.com/clementckmc" target="_blank" class="icon-social"><i class="fa-brands fa-github"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/clement-choi/" target="_blank" class="icon-social"><i class="fa-brands fa-linkedin"></i></a></li>
         <li><a href="#" class="btn-purple">CV</a></li>
       </ul>
     </div>
