@@ -1,9 +1,9 @@
-<div class="row my-5">
+<div class="profile-card row my-5">
   <div class="col-12">
     <div class="container">
       <div id="projects">
-        <h2> Projects</h2>
-        <div class="cards">
+        <h2 class="emphasis mt-3 mb-3"><i class="fa-solid fa-diagram-project"></i> Projects</h2>
+        <div class="cards mt-3 mb-3">
           <% data.projects.each do |project| %>
             <div class="card-product">
               <%= image_tag project.image, alt: "project image" %>
