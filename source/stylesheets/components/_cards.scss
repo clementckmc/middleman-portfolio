@@ -1,3 +1,15 @@
+.profile-card {
+  background-color: rgba(245, 245, 245, 0.5);
+  padding: 20px;
+  border-radius: 4px;
+  margin-top: 25px;
+}
+
+.profile-container {
+  width: 750px;
+  margin: 0 auto;
+}
+
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;

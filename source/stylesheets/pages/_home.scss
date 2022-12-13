@@ -1,8 +1,10 @@
 // Specific CSS for your home-page
 body {
-  background-image: repeating-linear-gradient(150deg, #39b4da, #e172e9);
-  background-repeat: no-repeat;
+  background: repeating-linear-gradient(150deg, #39b4da, #e172e9) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font-family: 'Open Sans', sans-serif;
   color: #25316D;
-  line-height: 24px;
 }
