@@ -1,19 +1,34 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: Substracked
+  description: Substracked is a Ruby on Rails web application aimed at saving users' money by tracking their online subscriptions.
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://www.substracked.com/
+
+- name: Substracked chrome extension
+  description: Chrome extension for Substracked to add subscription.
+  image: projects/placeholder.png
+  url: https://github.com/clementckmc/substracked-chrome
+
+- name: Rent-a-retro
+  description: Rent-a-retro is a Ruby on Rails marketplace web application allowing users to lend and rent retro video games.
+  image: projects/placeholder.png
+  url: https://rent-a-retro.herokuapp.com/
+
+- name: Premier League Info and Forum Site
+  description: It is a web application that presents Premier League data and information by retreiving data from football-API, including information for each Premier League team, fixtures and table of the current Premier League season. It also includes a discussion forum for each Premier League team.
+  image: projects/placeholder.png
+  url: https://premier-league-info-forum.herokuapp.com/
 
 - name: Movie Watchlist
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://clementckmc-rails-watch-list.herokuapp.com/
 
-- name: Airbnb
+- name: Choco Bittersweet
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://choco-bittersweet.herokuapp.com/
 
-- name: Final project
-  description: Decent description of the app
+- name: Slack copycat
+  description: A copycat of Slack which can send and get messages with wagon-chat API.
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://github.com/clementckmc/slack-copycat
