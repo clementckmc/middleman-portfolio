@@ -15,6 +15,17 @@
   color: black;
 }
 
+.card:hover {
+  transition: 0.5s;
+  transform: scale(1.05);
+}
+
+.card:not(:hover) {
+  transition: 0.25s;
+  transform: scale(1);
+}
+
+
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {
   .cards {
