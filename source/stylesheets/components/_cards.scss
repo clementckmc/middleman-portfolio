@@ -12,7 +12,11 @@
 }
 
 .description {
-  color: black;
+  color: $dark-gray;
+}
+
+.card {
+  height: 446px;
 }
 
 .card:hover {
@@ -23,6 +27,11 @@
 .card:not(:hover) {
   transition: 0.25s;
   transform: scale(1);
+}
+
+.tech {
+  background-color: $emphasis !important;
+  font-size: 0.9em;
 }
 
 

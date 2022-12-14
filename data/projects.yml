@@ -2,33 +2,52 @@
   description: Substracked is a Ruby on Rails web application aimed at saving users' money by tracking their online subscriptions.
   image: projects/placeholder.png
   url: https://www.substracked.com/
+  techs:
+    - Ruby on Rails
+    - StimulusJS
 
 - name: Substracked chrome extension
   description: Chrome extension for Substracked to add subscription from external site.
   image: projects/placeholder.png
   url: https://github.com/clementckmc/substracked-chrome
+  techs:
+    - Javascript
 
 - name: Rent-a-retro
   description: Rent-a-retro is a Ruby on Rails marketplace web application allowing users to lend and rent retro video games.
   image: projects/placeholder.png
   url: https://rent-a-retro.herokuapp.com/
+  techs:
+    - Ruby on Rails
+    - StimulusJS
 
 - name: Premier League Info and Forum Site
-  description: A web application that presents Premier League data and information (table, fixtures etc.) by retreiving data from football-API. It also includes a discussion forum for each Premier League team.
+  description: A Django web app that presents Premier League table and fixtures etc by retreiving data from football-API. It also includes a discussion forum.
   image: projects/placeholder.png
   url: https://premier-league-info-forum.herokuapp.com/
+  techs:
+    - Django
+    - Javascript
 
 - name: Movie Watchlist
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://clementckmc-rails-watch-list.herokuapp.com/
+  techs:
+    - Ruby on Rails
+    - StimulusJS
 
 - name: Choco Bittersweet
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://choco-bittersweet.herokuapp.com/
+  techs:
+    - Ruby on Rails
+    - StimulusJS
 
 - name: Slack copycat
-  description: A copycat of Slack which can send and get messages with wagon-chat API.
+  description: A copycat of Slack which can send and get messages through wagon-chat API.
   image: projects/placeholder.png
   url: https://github.com/clementckmc/slack-copycat
+  techs:
+    - Javascript
