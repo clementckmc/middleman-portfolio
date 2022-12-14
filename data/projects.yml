@@ -4,7 +4,7 @@
   url: https://www.substracked.com/
 
 - name: Substracked chrome extension
-  description: Chrome extension for Substracked to add subscription.
+  description: Chrome extension for Substracked to add subscription from external site.
   image: projects/placeholder.png
   url: https://github.com/clementckmc/substracked-chrome
 
@@ -14,7 +14,7 @@
   url: https://rent-a-retro.herokuapp.com/
 
 - name: Premier League Info and Forum Site
-  description: It is a web application that presents Premier League data and information by retreiving data from football-API, including information for each Premier League team, fixtures and table of the current Premier League season. It also includes a discussion forum for each Premier League team.
+  description: A web application that presents Premier League data and information (table, fixtures etc.) by retreiving data from football-API. It also includes a discussion forum for each Premier League team.
   image: projects/placeholder.png
   url: https://premier-league-info-forum.herokuapp.com/
 
