@@ -41,6 +41,10 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
+
+  .card {
+    width: 13rem !important;
+  }
 }
 
 // Small devices (landscape phones, 576px and up)

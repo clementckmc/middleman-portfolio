@@ -19,30 +19,30 @@ a:-webkit-any-link {
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 600px;
+    width: 880px;
   }
 }
 
 @media (max-width: 720px) {
   /* For a screen < 720px, this CSS will be read */
   .container {
-    width: 400px;
+    width: 630px;
   }
 }
 
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 250px;
+    width: 540px;
   }
 
-  img {
-    height: 100px;
-    width: 100px;
+  .profile-pic {
+    height: 150px;
+    width: 150px;
   }
 
   h1 {
-    font-size: 24px;
+    font-size: 48px !important;
   }
 
   h2 {
