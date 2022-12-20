@@ -38,8 +38,8 @@
     - StimulusJS
 
 - name: Choco Bittersweet
-  description: A web application storing users' favorite chocolate recipes and their ingredients. Users can also add and review recipes.
-  image: projects/placeholder.png
+  description: A web application storing users' favorite chocolate recipes and their ingredients. Users can also add ratings to recipes.
+  image: projects/choco.png
   url: https://choco-bittersweet.herokuapp.com/
   techs:
     - Ruby on Rails
