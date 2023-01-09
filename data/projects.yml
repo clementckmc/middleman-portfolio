@@ -29,6 +29,13 @@
     - Django
     - Javascript
 
+- name: Social
+  description: A SNS web application built by Django, allowing users to post text and photos. Users can also follow and interact with each other.
+  image: projects/social.png
+  url: https://django-social-ckmc.herokuapp.com/
+  techs:
+    - Django
+
 - name: Movie Watchlist
   description: A web application showing users' movie watchlist and allow users to add their favorite movies in the list.
   image: projects/watchlist.png
