@@ -7,7 +7,7 @@
     - StimulusJS
 
 - name: Substracked chrome extension
-  description: Chrome extension for Substracked to add subscription from external site.
+  description: Chrome extension for Substracked to add subscription from external sites.
   image: projects/subs-chrome.png
   url: https://github.com/clementckmc/substracked-chrome
   techs:
