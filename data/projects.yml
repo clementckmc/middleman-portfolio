@@ -1,5 +1,6 @@
 - name: Substracked
   description: Substracked is a Ruby on Rails web application aimed at saving users' money by tracking their online subscriptions.
+  descriptionJP: Ruby on Railsのウェブアプリ。ユーザーのサブスクリプションを管理するサイト。プロダクトマネージャー、主にバックエンド担当。
   image: projects/substracked.png
   url: https://www.substracked.com/
   techs:
@@ -8,6 +9,7 @@
 
 - name: Substracked chrome extension
   description: Chrome extension for Substracked to add subscription from external sites.
+  descriptionJP: SubstrackedのGoogle Chrome拡張機能。
   image: projects/subs-chrome.png
   url: https://github.com/clementckmc/substracked-chrome
   techs:
@@ -15,6 +17,7 @@
 
 - name: Rent-a-retro
   description: Rent-a-retro is a Ruby on Rails marketplace web application allowing users to lend and rent retro video games.
+  descriptionJP: Ruby on Railsのウェブアプリ。レトロゲームの貸し借りを行うサイト。リードデベロッパー、主にバックエンド担当。
   image: projects/Rent-a-retro.png
   url: https://rent-a-retro.herokuapp.com/
   techs:
@@ -23,6 +26,7 @@
 
 - name: Premier League Info and Forum Site
   description: A Django web app that presents Premier League table and fixtures etc by retreiving data from football-API. It also includes a discussion forum.
+  descriptionJP: Djangoのウェブアプリ。プレミアリーグの情報（試合日程・順位表）サイト。掲示板の機能も実装している。
   image: projects/PLinfo.png
   url: https://premier-league-info-forum.herokuapp.com/
   techs:
@@ -31,6 +35,7 @@
 
 - name: Social
   description: A SNS web application built by Django, allowing users to post text and photos. Users can also follow and interact with each other.
+  descriptionJP: DjangoのSNSウェブアプリ。
   image: projects/social.png
   url: https://django-social-ckmc.herokuapp.com/
   techs:
@@ -38,6 +43,7 @@
 
 - name: Movie Watchlist
   description: A web application showing users' movie watchlist and allow users to add their favorite movies in the list.
+  descriptionJP: Ruby on Railsのウェブアプリ。ユーザーは好きな映画をウォッチリストに追加できる。
   image: projects/watchlist.png
   url: https://clementckmc-rails-watch-list.herokuapp.com/
   techs:
@@ -46,6 +52,7 @@
 
 - name: Choco Bittersweet
   description: A web application storing users' favorite chocolate recipes and their ingredients. Users can also add ratings to recipes.
+  descriptionJP: Ruby on Railsのウェブアプリ。チョコレートのレシピを表示するサイト。ユーザーはレシピに評価を付ける。
   image: projects/choco.png
   url: https://choco-bittersweet.herokuapp.com/
   techs:
@@ -54,6 +61,7 @@
 
 - name: Slack copycat
   description: A copycat of Slack which can send and get messages through wagon-chat API.
+  descriptionJP: Slackを模倣するサイト。Wagon-chat APIを通じてメッセージの着信と送信を行える。
   image: projects/slack.png
   url: https://github.com/clementckmc/slack-copycat
   techs:

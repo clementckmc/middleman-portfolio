@@ -1,0 +1,29 @@
+<div class="profile-card row my-5">
+  <div class="col-12">
+    <div class="container">
+      <div id="projects">
+        <h2 class="emphasis mt-3 mb-3"><i class="fa-solid fa-diagram-project"></i> Projects</h2>
+        <div class="cards mt-3 mb-3">
+          <% data.projects.each do |project| %>
+            <% link_to project.url, target: '_blank' do %>
+              <div class="card mt-3 mb-3" style="width: 20rem;">
+                <%= image_tag project.image, alt: "project image", class: "card-img-top" %>
+                <div class="d-flex card-body align-items-start flex-column">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h2 class="emphasis" style="font-size: 1.5rem;"><%= project.name %></h2>
+                  </div>
+                  <p class="description"><%= project.descriptionJP %></p>
+                  <div class="mt-auto">
+                    <% project.techs.each do |tech| %>
+                      <span class="badge bg-primary tech"><%= tech %></span>
+                    <% end %>
+                  </div>
+                </div>
+              </div>
+            <% end %>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

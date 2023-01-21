@@ -1,0 +1,24 @@
+<div class="container mt-5">
+  <div class="profile-card d-flex row justify-content-center lh-lg align-items-center">
+    <div class="col-4 text-center">
+      <%= image_tag 'profile.jpg', alt: "profile photo", class: 'profile-pic align-middle' %>
+    </div>
+    <div class="col-4">
+      <h1 style="font-size: 60px" class="emphasis mt-5 mb-3"> Clement Choi</h1>
+      <h1 style="font-size: 48px" class="emphasis mb-3">クレメント　サイ</h1>
+      <div class="d-flex justify-content-between">
+        <p><i class="fa-solid fa-laptop emphasis"></i> Webエンジニア</p>
+        <p><i class="fa-solid fa-location-dot emphasis"></i> 東京</p>
+        <p></p>
+      </div>
+      <p><i class="fa-solid fa-language emphasis"></i> 英語、日本語、中国語（北京語、広東語）</p>
+      <ul class="list-inline mb-5">
+        <li class="button-social"><i class="fa-solid fa-envelope"></i><%= mail_to "clementchoi1997@gmail.com", "", class: 'button-social-link' %></li>
+        <li><a href="https://github.com/clementckmc" target="_blank" class="icon-social"><i class="fa-brands fa-github"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/clement-choi/" target="_blank" class="icon-social"><i class="fa-brands fa-linkedin"></i></a></li>
+        <li><a href="https://www.wantedly.com/id/clement_choi" target="_blank" class="icon-social"><%= image_tag "wantedly.png", class: "wantedly" %></a></li>
+        <li><a href="docs/CV.pdf" class="btn-purple" download>CV</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
