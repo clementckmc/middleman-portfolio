@@ -1,5 +1,9 @@
 <div class="container ">
   <!-- Language Select -->
+  <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+    <%= link_to 'English', '/', {class: "btn btn-primary active"} %>
+    <%= link_to '日本語', '/jp', {class: "btn btn-primary"} %>
+  </div>
   <!-- Banner Section -->
   <%= partial 'partials/banner' %>
   <div class="mt-3 row justify-content-around">
