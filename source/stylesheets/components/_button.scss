@@ -56,3 +56,21 @@
   list-style: none;
   padding-left: 0px;
 }
+
+.btn-lang {
+  background-color: #39b4da !important;
+  border-color: $emphasis !important;
+  &:hover {
+    filter: brightness(95%);
+    transition: 0.5s;
+  }
+}
+
+.btn-lang-active {
+  background-color: #e172e9 !important;
+  border-color: $emphasis !important;
+  &:hover {
+    filter: brightness(95%);
+    transition: 0.5s;
+  }
+}
