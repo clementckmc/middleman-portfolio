@@ -1,2 +1,4 @@
 # My portfolio website
-https://clementchoi.info/
+A static portfolio website built with [Middleman Template](https://middlemanapp.com/).
+
+App home: https://clementchoi.info/
