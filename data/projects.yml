@@ -37,7 +37,7 @@
   description: A SNS web application built by Django, allowing users to post text and photos. Users can also follow and interact with each other.
   descriptionJP: DjangoのSNSウェブアプリ。
   image: projects/social.png
-  url: https://django-social-ckmc.herokuapp.com/
+  url: https://github.com/clementckmc/django-social
   techs:
     - Django
 
@@ -54,7 +54,7 @@
   description: A web application storing users' favorite chocolate recipes and their ingredients. Users can also add ratings to recipes.
   descriptionJP: Ruby on Railsのウェブアプリ。チョコレートのレシピを表示するサイト。ユーザーはレシピに評価を付ける。
   image: projects/choco.png
-  url: https://choco-bittersweet.herokuapp.com/
+  url: https://github.com/clementckmc/rails-chocolate
   techs:
     - Ruby on Rails
     - StimulusJS
