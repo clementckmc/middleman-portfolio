@@ -58,16 +58,18 @@
 }
 
 .btn-lang {
-  background-color: #39b4da !important;
+  background-color: #E2E2E2 !important;
   border-color: $emphasis !important;
+  color: black;
   &:hover {
     filter: brightness(95%);
+    color: rgb(58, 56, 56);
     transition: 0.5s;
   }
 }
 
 .btn-lang-active {
-  background-color: #e172e9 !important;
+  background-color: #2DB79F !important;
   border-color: $emphasis !important;
   &:hover {
     filter: brightness(95%);
