@@ -2,7 +2,7 @@
   description: Substracked is a Ruby on Rails web application aimed at saving users' money by tracking their online subscriptions.
   descriptionJP: Ruby on Railsのウェブアプリ。ユーザーのサブスクリプションを管理するサイト。プロダクトマネージャー、主にバックエンド担当。
   image: projects/substracked.png
-  url: https://www.substracked.com/
+  url: https://github.com/clementckmc/substracked
   techs:
     - Ruby on Rails
     - StimulusJS
