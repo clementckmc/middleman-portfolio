@@ -25,13 +25,22 @@
     - StimulusJS
 
 - name: Premier League Info and Forum Site
-  description: A Django web app that presents Premier League table and fixtures etc by retreiving data from football-API. It also includes a discussion forum.
+  description: A Django web app that presents Premier League table and fixtures etc by retrieving data from football-API. It also includes a discussion forum.
   descriptionJP: Djangoのウェブアプリ。プレミアリーグの情報（試合日程・順位表）サイト。掲示板の機能も実装している。
   image: projects/PLinfo.png
   url: https://premier-league-info-forum.herokuapp.com/
   techs:
     - Django
     - Javascript
+
+- name: Movie Database
+  description: A React web app that fetches movie data from TMDB, allowing users to view trending movies and search for films using keywords.
+  descriptionJP: TMDBから映画データを取得するReactウェブアプリで、ユーザーがトレンドの映画を閲覧したり、キーワードで映画を検索できる。
+  image: projects/movieDB.png
+  url: https://clementckmc.github.io/react-movie-database
+  techs:
+    - React
+    - Typescript
 
 - name: Social
   description: A SNS web application built by Django, allowing users to post text and photos. Users can also follow and interact with each other.
