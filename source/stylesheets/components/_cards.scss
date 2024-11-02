@@ -5,6 +5,12 @@
   margin-top: 25px;
 }
 
+@media screen and (max-width: 768px) {
+  .banner-text {
+    width: 100% !important;
+  }
+}
+
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -35,6 +41,9 @@
   font-size: 0.9em;
 }
 
+.skill-icons {
+  line-height: 4rem;
+}
 
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {
