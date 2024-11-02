@@ -25,7 +25,7 @@
     - StimulusJS
 
 - name: Premier League Info and Forum Site
-  description: A Django web app that presents Premier League table and fixtures etc by retrieving data from football-API. It also includes a discussion forum.
+  description: A Django app that presents Premier League information by fetching data from football-API, along with a discussion forum.
   descriptionJP: Djangoのウェブアプリ。プレミアリーグの情報（試合日程・順位表）サイト。掲示板の機能も実装している。
   image: projects/PLinfo.png
   url: https://premier-league-info-forum.herokuapp.com/
