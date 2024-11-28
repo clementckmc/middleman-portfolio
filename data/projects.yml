@@ -59,14 +59,14 @@
     - Ruby on Rails
     - StimulusJS
 
-- name: Choco Bittersweet
-  description: A web application storing users' favorite chocolate recipes and their ingredients. Users can also add ratings to recipes.
-  descriptionJP: Ruby on Railsのウェブアプリ。チョコレートのレシピを表示するサイト。ユーザーはレシピに評価を付ける。
-  image: projects/choco.png
-  url: https://github.com/clementckmc/rails-chocolate
-  techs:
-    - Ruby on Rails
-    - StimulusJS
+# - name: Choco Bittersweet
+#   description: A web application storing users' favorite chocolate recipes and their ingredients. Users can also add ratings to recipes.
+#   descriptionJP: Ruby on Railsのウェブアプリ。チョコレートのレシピを表示するサイト。ユーザーはレシピに評価を付ける。
+#   image: projects/choco.png
+#   url: https://github.com/clementckmc/rails-chocolate
+#   techs:
+#     - Ruby on Rails
+#     - StimulusJS
 
 - name: Slack copycat
   description: A copycat of Slack which can send and get messages through wagon-chat API.
