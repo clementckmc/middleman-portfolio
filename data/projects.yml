@@ -42,6 +42,14 @@
     - React
     - Typescript
 
+- name: Telegram chatGPT Bot
+  description: A Telegram chatbot built with Python, implementing chatGPT by applying OpenAI API.
+  descriptionJP: Pythonで構築されたTelegramチャットボットで、OpenAI APIを活用してChatGPTを実装している。
+  image: projects/telegramBot.png
+  url: https://github.com/clementckmc/chatGPT-telegram
+  techs:
+    - Python
+
 - name: Social
   description: A SNS web application built by Django, allowing users to post text and photos. Users can also follow and interact with each other.
   descriptionJP: DjangoのSNSウェブアプリ。
