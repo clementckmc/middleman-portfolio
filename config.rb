@@ -46,4 +46,4 @@ page '/*.txt', layout: false
 # end
 
 # metaman
-activate :metaman, host: 'https://clementchoi.info/'
+activate :metaman, host: 'https://clementchoi.com/'
