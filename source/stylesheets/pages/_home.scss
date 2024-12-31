@@ -16,6 +16,10 @@ a:-webkit-any-link {
   text-decoration: none;
 }
 
+.btn-group {
+  margin-top: 4px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
