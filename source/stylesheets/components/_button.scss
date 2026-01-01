@@ -5,7 +5,7 @@
   font-size: 20px;
 
   &:hover {
-    color: $purple;
+    color: $noime;
     transition: 0.5s;
   }
 }
@@ -14,7 +14,7 @@
   color: $emphasis;
 
   &:hover {
-    color: $purple;
+    color: $noime;
     transition: 0.5s;
   }
 }
@@ -32,7 +32,7 @@
   bottom: 0;
 }
 
-.btn-purple {
+.btn-download {
   background-color: $emphasis;
   color: white;
   padding: 2px 8px;
@@ -40,8 +40,8 @@
   font-size: 20px;
 }
 
-.btn-purple:hover {
-  background-color: $purple;
+.btn-download:hover {
+  background-color: $noime;
   transition: 0.5s;
   color: white;
 }
@@ -69,7 +69,7 @@
 }
 
 .btn-lang-active {
-  background-color: #CAE1F5 !important;
+  background-color: $noime !important;
   border-color: $emphasis !important;
   color: #e04284f0;
   &:hover {
