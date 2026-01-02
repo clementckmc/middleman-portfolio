@@ -5,7 +5,7 @@
   font-size: 20px;
 
   &:hover {
-    color: $noime;
+    color: #8dcee8;
     transition: 0.5s;
   }
 }
@@ -14,7 +14,7 @@
   color: $emphasis;
 
   &:hover {
-    color: $noime;
+    color: #8dcee8;
     transition: 0.5s;
   }
 }
@@ -41,7 +41,7 @@
 }
 
 .btn-download:hover {
-  background-color: $noime;
+  background-color: #8dcee8;
   transition: 0.5s;
   color: white;
 }
@@ -58,23 +58,23 @@
 }
 
 .btn-lang {
-  background-color: #E2E2E2 !important;
+  background-color: #a2d8ed !important;
   border-color: $emphasis !important;
-  color: black;
+  color: #e34f4f;
   &:hover {
     filter: brightness(95%);
-    color: #e04284f0;
+    color: #ed1d1d;
     transition: 0.5s;
   }
 }
 
 .btn-lang-active {
-  background-color: $noime !important;
+  background-color: #e34f4f !important;
   border-color: $emphasis !important;
-  color: #e04284f0;
+  color: #a2d8ed;
   &:hover {
     filter: brightness(95%);
-    color: black;
+    color: #8dcee8;
     transition: 0.5s;
   }
 }
